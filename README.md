@@ -2,7 +2,7 @@
 
 مجموعة أقسام لصفحات الهبوط في سلة. التاجر يختار قالباً من قنوات البيع ثم صفحات الهبوط، ويعدل النصوص والصور من لوحة التحكم.
 
-المستودع: https://github.com/Ashaheen892/tw-riwaq-landing
+المستودع: https://github.com/Ashaheen892/tw-riwaq-landing-pages
 
 ## الصفحتان
 

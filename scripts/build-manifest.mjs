@@ -399,8 +399,8 @@ const bundle = {
     en: "Two landing pages with different sections: a calm coffee page, and a conversion page for a tech product.",
   },
   author_email: "sajispprt@gmail.com",
-  support_url: "https://github.com/Ashaheen892/tw-riwaq-landing",
-  repository: "https://github.com/Ashaheen892/tw-riwaq-landing",
+  support_url: "https://github.com/Ashaheen892/tw-riwaq-landing-pages",
+  repository: "https://github.com/Ashaheen892/tw-riwaq-landing-pages",
   features: ["landing-page-templates"],
   components,
   templates: templates.map((template) => {
